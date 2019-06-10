@@ -1,5 +1,5 @@
 # DataCamp
-This Repository contains all the courses of Data Camp's Data Scientist with Python Track and Skill tracks that I completed and implemented in jupyter notebooks locally
+This Repository contains all the courses of DataCamp's Data Scientist with Python Track and Skill tracks that I completed and implemented in jupyter notebooks locally
 
 <img src = 'https://www.datacamp.com/datacamp-sq.png'>   
 
@@ -27,4 +27,17 @@ This Repository contains all the courses of Data Camp's Data Scientist with Pyth
 - [Machine Learning with the Experts - School Budgets](https://github.com/VaibhavSachaa/DataCamp/tree/master/Data%20Scientist%20with%20Python/Course%2019%20-%20Machine%20Learning%20with%20the%20Experts%20-%20School%20Budgets)
 - [Unsupervised Learning in Python](https://github.com/VaibhavSachaa/DataCamp/tree/master/Data%20Scientist%20with%20Python/Course%2020%20-%20Unsupervised%20Learning%20in%20Python)
 - [Deep Learning in Python](https://github.com/VaibhavSachaa/DataCamp/tree/master/Data%20Scientist%20with%20Python/Course%2021%20-%20%20Deep%20Learning%20in%20Python)
-- [Network Analysis in Python (Part 1)](https://github.com/VaibhavSachaa/DataCamp/tree/master/Data%20Scientist%20with%20Python/Course%2022%20-%20Network%20Analysis%20in%20Python%20(Part%201))
+- [Network Analysis in Python (Part 1)](https://github.com/VaibhavSachaa/DataCamp/tree/master/Data%20Scientist%20with%20Python/Course%2022%20-%20Network%20Analysis%20in%20Python%20(Part%201))  
+
+
+## Skill Tracks:
+
+- [Data Manipulation with Python](https://github.com/VaibhavSachaa/DataCamp/tree/master/Skill%20Tracks/Data%20Manipulation%20with%20Python)
+- [Importing & Cleaning Data with Python](https://github.com/VaibhavSachaa/DataCamp/tree/master/Skill%20Tracks/Importing%20%26%20Cleaning%20Data%20with%20Python)
+- [Machine Learning with Python](https://github.com/VaibhavSachaa/DataCamp/tree/master/Skill%20Tracks/Machine%20Learning%20with%20Python)  
+
+## Projects:
+
+- [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
+- [Name Game_ Gender Prediction using Sound](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Name%20Game_%20Gender%20Prediction%20using%20Sound)
+- [Up and Down With the Kardashians](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Up%20and%20Down%20With%20the%20Kardashians)
