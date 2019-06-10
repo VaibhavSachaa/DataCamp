@@ -1,0 +1,4 @@
+# Course Description
+In this course, you'll learn how to leverage pandas' extremely powerful data manipulation engine to get the most out of your data. It is important to be able to extract, filter, and transform data from DataFrames in order to drill into the data that really matters. The pandas library has many techniques that make this process efficient and intuitive. You will learn how to tidy, rearrange, and restructure your data by pivoting or melting and stacking or unstacking DataFrames. These are all fundamental next steps on the road to becoming a well-rounded Data Scientist, and you will have the chance to apply all the concepts you learn to real-world datasets.  
+
+<img src = 'https://assets.datacamp.com/production/course_1650/shields/original/shield_image_course_1650_20190509-1-im9lrf?1557397806'>
