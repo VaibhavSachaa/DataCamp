@@ -1,1 +1,1 @@
-### This section contains the courses from Data Camp's skill tracks
+### This section contains the courses from DataCamp's skill tracks
