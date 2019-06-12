@@ -38,6 +38,7 @@ This Repository contains all the courses of DataCamp's Data Scientist with Pytho
 
 ## Projects:
 
+- [Do Left-handed People Really Die Young_](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Do%20Left-handed%20People%20Really%20Die%20Young_)
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 - [Name Game_ Gender Prediction using Sound](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Name%20Game_%20Gender%20Prediction%20using%20Sound)
 - [Up and Down With the Kardashians](https://github.com/VaibhavSachaa/DataCamp/tree/master/Projects/Projects/Up%20and%20Down%20With%20the%20Kardashians)
